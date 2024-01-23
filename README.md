@@ -1,3 +1,5 @@
+### This fork aims for the translation of the project to Brazilian Portuguese
+
 <div align="center">
   <h1>Smart Dock</h1>
   A user-friendly desktop mode launcher that offers a modern and customizable user interface
